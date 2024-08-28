@@ -1,0 +1,33 @@
+
+.light {
+    background-color: blue;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.count{
+    margin-top: 20px;
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.clr{
+    background-color: #888;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.clr button{
+    padding: 10px 25px;
+    border: none;
+    cursor: pointer;
+}
